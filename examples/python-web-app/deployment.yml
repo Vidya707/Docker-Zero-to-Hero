@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python
-        image: vidya384/python-demo:v1
+        image: vidya384/python:v1
         ports:
         - containerPort: 8000
